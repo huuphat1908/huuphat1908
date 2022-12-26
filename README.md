@@ -1,3 +1,4 @@
+<br />
 <h2 align="center">Technologies and Tools</h2>
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
 &nbsp;
@@ -26,7 +27,7 @@
 &nbsp;
 <br>
 
-<h2 align="center">Contact me</h2>
+<h2 align="center">Contact</h2>
 <div align="center">
   <a href="https://www.facebook.com/huuphat1908/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="huuphatdev1908-facebook" />
@@ -39,3 +40,10 @@
   </a>
 </div>
 <br>
+
+<h2 align="center">Coding training</h2>
+<div align="center">
+ <a href="https://www.hackerrank.com/huuphat1908" target="top">
+    <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/null/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png" alt="huuphatdev1908-email" />
+  </a>
+  </div>
